@@ -2,23 +2,22 @@
 
 Welcome to my corner of GitHub! I'm a FrontEnd Developer who loves Designing. Dive in to explore my projects, skills, and maybe even some cool surprises!
 
-![Profile Banner](https://example.com/banner.jpg) <!-- Replace with a funky banner image -->
+ <!-- Replace with a funky banner image -->
 
 ## 🚀 About Me
 
-- 🎯 **Current Mission**: Working on [Current Project or Job] - it's a blast!
-- 🌍 **Location**: Zooming in from [Location]
-- 🤝 **Collaboration Goals**: Always up for [Types of Projects or Technologies]
-- 🤔 **Need Help With**: [Areas You Need Help With] - let's tackle it together!
-- 💬 **Ask Me About**: [Topics You're Knowledgeable About] - I'm all ears!
-- 📬 **Get in Touch**: Drop me a line at [Your Email or Contact Info]
+- 🎯 **Current Mission**: Working on "Its Surprise🌟" - it's a blast!
+- 🌍 **Location**: Zooming in from Galaxy
+- 🤔 **Need Help With**: Designing- let's tackle it together!
+- 💬 **Ask Me About**: Coding - I'm all ears!
+- 📬 **Get in Touch**: Drop me a line at kahkashakhan1417@gmail.com
 
 ## 💥 Skills & Tech
 
-- **Languages**: JavaScript, Python, HTML, CSS, and more!
+- **Languages**: Java,JavaScript, HTML, CSS, and more!
 - **Frameworks**: React, Node.js, Django - the big guns!
-- **Tools**: VSCode, Git, Docker - my trusty sidekicks!
-- **Databases**: MySQL, MongoDB, PostgreSQL - the data wizards!
+- **Tools**: VSCode, Git - my trusty sidekicks!
+- **Databases**: MySQL- the data wizards!
 
 ## 📊 GitHub Stats
 
@@ -26,9 +25,11 @@ Welcome to my corner of GitHub! I'm a FrontEnd Developer who loves Designing. Di
 
 ## 🌐 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/kahkasha-rafat-fatima-8672a0231/) - Let's connect!
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kahkasha-rafat-fatima-8672a0231/) - Let's connect!
 - [![Twitter](https://img.shields.io/badge/Twitter-000000?style=flat&logo=x&logoColor=white)](https://x.com/KahkashaKh1711) - Follow for updates!
-- [Personal Website](https://kahkasha17.github.io/Portfolio/) - Check out my digital home!
+- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/codewithkahkasha1517/)
+- [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@CodeWithKahkasha1517)
+- [![Personal Website](https://img.shields.io/badge/Website-000000?style=flat&logo=About.me&logoColor=white)](https://kahkasha17.github.io/Portfolio/) - Check out my digital home!
 
 ## 🎉 Featured Projects
 
