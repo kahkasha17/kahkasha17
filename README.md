@@ -27,7 +27,7 @@ Welcome to my corner of GitHub! I'm a FrontEnd Developer who loves Designing. Di
 ## 🌐 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/kahkasha-rafat-fatima-8672a0231/) - Let's connect!
-- ![Twitter](https://img.shields.io/badge/Twitter-000000?style=flat&logo=x&logoColor=white)](https://x.com/KahkashaKh1711) - Follow for updates!
+- [!Twitter(https://img.shields.io/badge/Twitter-000000?style=flat&logo=x&logoColor=white)](https://x.com/KahkashaKh1711) - Follow for updates!
 - [Personal Website](https://kahkasha17.github.io/Portfolio/) - Check out my digital home!
 
 ## 🎉 Featured Projects
