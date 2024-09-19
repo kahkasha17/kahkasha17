@@ -15,7 +15,7 @@ Welcome to my corner of GitHub! I'm a FrontEnd Developer who loves Designing. Di
 ## 💥 Skills & Tech
 
 - **Languages**: Java,JavaScript, HTML, CSS, and more!
-- **Frameworks**: React, Node.js, Django - the big guns!
+- **Frameworks**: React, Node.js, Next.js - the big guns!
 - **Tools**: VSCode, Git - my trusty sidekicks!
 - **Databases**: MySQL- the data wizards!
 
