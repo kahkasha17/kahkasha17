@@ -27,8 +27,8 @@ Welcome to my corner of GitHub! I'm a FrontEnd Developer who loves Designing. Di
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kahkasha-rafat-fatima-8672a0231/) - Let's connect!
 - [![Twitter](https://img.shields.io/badge/Twitter-000000?style=flat&logo=x&logoColor=white)](https://x.com/KahkashaKh1711) - Follow for updates!
-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/codewithkahkasha1517/)
-- [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@CodeWithKahkasha1517)
+- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/codewithkahkasha1517/)- Follow for New Challenges
+- [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@CodeWithKahkasha1517)- Check my Latest Contents
 - [![Personal Website](https://img.shields.io/badge/Website-000000?style=flat&logo=About.me&logoColor=white)](https://kahkasha17.github.io/Portfolio/) - Check out my digital home!
 
 ## 🎉 Featured Projects
