@@ -21,7 +21,7 @@ Welcome to my corner of GitHub! I'm a FrontEnd Developer who loves Designing. Di
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kahkasha17&show_icons=true&cache_seconds=1800) 
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kahkasha17&show_icons=true&cache_seconds=1000) 
 
 ## 🌐 Connect with Me
 
