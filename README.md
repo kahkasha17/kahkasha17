@@ -20,11 +20,8 @@ Welcome to my corner of GitHub! I'm a FrontEnd Developer who loves Designing. Di
 - **Databases**: MySQL- the data wizards!
 
 ## 📊 GitHub Stats
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=kahkasha17&theme=dark" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=kahkasha17&show_icons=true&theme=dark&cache_seconds=1000" alt="Your GitHub Stats"/>
-</div>
-
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=kahkasha17&theme=dark)](https://git.io/streak-stats)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kahkasha17&show_icons=true&theme=dark&cache_seconds=1000)  
 ## 🌐 Connect with Me
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kahkasha-rafat-fatima-8672a0231/) - Let's connect!
