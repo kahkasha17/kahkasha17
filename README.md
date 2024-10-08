@@ -2,8 +2,8 @@
 
 Welcome to my corner of GitHub! I'm a FrontEnd Developer who loves Designing. Dive in to explore my projects, skills, and maybe even some cool surprises!
 
- <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=Web+Development;Java+Programming;MCA"/>
-<h3 align="center">Front End Developer </h3>
+ <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%1150217E&size=35&center=true&vCenter=true&width=600%&lines=Front+End+Developer;MERN+Developer;"/>
+
 ## 🚀 About Me
 
 - 🎯 **Current Mission**: Working on "Its Surprise🌟" - it's a blast!
