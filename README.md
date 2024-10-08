@@ -22,6 +22,13 @@ Welcome to my corner of GitHub! I'm a FrontEnd Developer who loves Designing. Di
 ## 📊 GitHub Stats
  [![GitHub Streak](https://streak-stats.demolab.com/?user=kahkasha17&theme=dark)](https://git.io/streak-stats)
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kahkasha17&show_icons=true&theme=dark&cache_seconds=1000)  
+
+# ![LeetCode Logo](https://assets.leetcode.com/static_assets/public/icons/favicon.ico) My LeetCode Stats 
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/kahkasha1711)
+
+![LeetCode Rank](https://img.shields.io/badge/LeetCode%20Rank-926,604%20%F0%9F%94%A5-yellow)
+
 ## 🌐 Connect with Me
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kahkasha-rafat-fatima-8672a0231/) - Let's connect!
