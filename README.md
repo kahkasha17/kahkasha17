@@ -2,7 +2,7 @@
 
 Welcome to my corner of GitHub! I'm a FrontEnd Developer who loves Designing. Dive in to explore my projects, skills, and maybe even some cool surprises!
 
- <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%1150217E&size=35&center=true&vCenter=true&width=600%&lines=FRONT+END+DEVELOPER;MERN+Developer;REACT+DEVELOPER"/>
+ <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%1150217E&size=35&center=true&vCenter=true&width=600%&lines=FRONT+END+DEVELOPER;MERN+DEVELOPER;REACT+DEVELOPER"/>
 
 ## 🚀 About Me
 
@@ -49,6 +49,8 @@ Welcome to my corner of GitHub! I'm a FrontEnd Developer who loves Designing. Di
 ![CSS](https://img.shields.io/badge/CSS-563d7c?&style=flat&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000)
 ![React-Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
