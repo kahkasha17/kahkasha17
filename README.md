@@ -2,7 +2,7 @@
 
 Welcome to my corner of GitHub! I'm a FrontEnd Developer who loves Designing. Dive in to explore my projects, skills, and maybe even some cool surprises!
 
- <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%1150217E&size=35&center=true&vCenter=true&width=600%&lines=Front+End+Developer;MERN+Developer;"/>
+ <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%1150217E&size=35&center=true&vCenter=true&width=600%&lines=FRONT+END+DEVELOPER;MERN+Developer;REACT+DEVELOPER"/>
 
 ## 🚀 About Me
 
@@ -27,7 +27,7 @@ Welcome to my corner of GitHub! I'm a FrontEnd Developer who loves Designing. Di
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/kahkasha1711)
 
-![LeetCode Rank](https://img.shields.io/badge/LeetCode%20Rank-926,604%20%F0%9F%94%A5-yellow)
+![LeetCode Rank](https://img.shields.io/badge/LeetCode%20Rank-914,014%20%F0%9F%94%A5-yellow)
 
 ## 🌐 Connect with Me
 
@@ -53,9 +53,14 @@ Welcome to my corner of GitHub! I'm a FrontEnd Developer who loves Designing. Di
 ![React-Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=fff)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![MySql](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black)
 
 ## 🕺 Let’s Dance!
