@@ -39,11 +39,6 @@ Welcome to my corner of GitHub! I'm a FrontEnd Developer who loves Designing. Di
 - [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@CodeWithKahkasha1517)- Check my Latest Contents
 - [![Personal Website](https://img.shields.io/badge/Website-000000?style=flat&logo=About.me&logoColor=white)](https://kahkasha17.github.io/Portfolio/) - Check out my digital home!
 
-## 🎉 Featured Projects
-
-- [**Portfolio**](https://github.com/kahkasha17/Portfolio) - This project is where the magic happens! ✨
-- [**Foodie-Bandhu**](https://github.com/kahkasha17/Foodie-Bandhu) - Another cool venture I'm super excited about! 🚀
-
 ## 🛠️ Technologies & Tools I 💖
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
