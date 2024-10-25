@@ -23,7 +23,7 @@ Welcome to my corner of GitHub! I'm a FrontEnd Developer who loves Designing. Di
 
 ## 📊 GitHub Stats
  [![GitHub Streak](https://streak-stats.demolab.com/?user=kahkasha17&theme=dark)](https://git.io/streak-stats)
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kahkasha17&show_icons=true&theme=dark&cache_seconds=1000)  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kahkasha17&show_icons=true&theme=dark&cache_seconds=2000)  
 
 # ![LeetCode Logo](https://assets.leetcode.com/static_assets/public/icons/favicon.ico) LeetCode Stats 
 
