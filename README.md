@@ -29,7 +29,7 @@ Welcome to my corner of GitHub! I'm a FrontEnd Developer who loves Designing. Di
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/kahkasha1711)
 
-![LeetCode Rank](https://img.shields.io/badge/LeetCode%20Rank-688,159%20%F0%9F%94%A5-yellow)
+![LeetCode Rank](https://img.shields.io/badge/LeetCode%20Rank-660,252%20%F0%9F%94%A5-yellow)
 
 ## 🌐 Connect with Me
 
